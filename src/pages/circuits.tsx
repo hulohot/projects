@@ -25,7 +25,7 @@ const Circuits = () => {
         </a>
         ).
       </p>
-      <ProjectCardx
+      <ProjectCard
         id="polymorphic-key-decomposer"
         title={"Polymorphic Key Decomposer"}
         date={"Summer 2021"}
