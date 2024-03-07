@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Project One",
+        "date": "2022-01-01",
+        "description": "Description of Project One",
+        "tags": ["Next.js", "React"]
+    },
+    {
+        "id": "2",
+        "title": "Project Two",
+        "date": "2022-02-01",
+        "description": "Description of Project Two",
+        "tags": ["Node.js", "Express"]
+    },
+    {
+        "id": "polymorphic-key-decomposer",
+        "title": "Polymorphic Key Decomposer",
+        "date": "Summer 2021",
+        "description": "Description of Project Three",
+        "tags": ["Circuits", "Research", "Security"]
+    }
+]
